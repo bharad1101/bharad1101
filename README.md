@@ -1,406 +1,220 @@
+# 👋 Hey, I'm Pola Bharadwaj
 
-<div align="center">
+### 📊 Aspiring Data Scientist | AI Architect in Progress | Software Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:4F46E5&height=220&section=header&text=DATA%20SCIENTIST%20%7C%20DATA%20%26%20AI%20ARCHITECT&fontSize=25&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data-Driven%20Insights%20%7C%20Intelligent%20Systems%20%7C%20Continuous%20Learning&descSize=13&descAlignY=58&descColor=C4B5FD" width="100%" alt="Profile header"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist;Future+Data+%26+AI+Architect;Exploring+Machine+Learning+%26+Data+Analytics;Building+My+Software+Engineering+Foundations;Turning+Data+Into+Meaningful+Insights" alt="Typing SVG"/></a>
-
-<br/>
-
-<a href="https://www.anurag.edu.in/"><img src="https://img.shields.io/badge/Education-B.Tech%20%7C%20AI%20%26%20ML-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="BTech AI ML"/></a>
-<a href="https://www.alison.com/"><img src="https://img.shields.io/badge/Robotics-Diploma-4F46E5?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics diploma"/></a>
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Explore%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square&color=6D28D9&label=TOTAL+STARS" alt="Stars"/>
-
-</div>
-
----
-
-## 01. About Me
-
-I'm a **B.Tech student specializing in Artificial Intelligence and Machine Learning**, passionate about data science, machine learning, and the engineering of intelligent systems.
-
-My primary career goals are to become a **Data Scientist** and eventually a **Data & AI Architect**. I am building my expertise progressively, starting with programming fundamentals, data analysis, statistical thinking, and machine learning while developing my software engineering skills through hands-on projects.
-
-I believe that effective AI solutions begin with understanding data, asking the right questions, evaluating evidence, and building systems that solve real-world problems.
-
-- **Data Science:** Exploring datasets, identifying patterns, performing exploratory data analysis, and communicating insights through visualizations.
-- **Data Analytics:** Working with Python, NumPy, Pandas, and Matplotlib to transform raw data into meaningful information.
-- **Machine Learning:** Building foundational knowledge of predictive modeling, model evaluation, feature engineering, and responsible AI.
-- **Software Development:** Progressively learning application architecture, backend development, frontend technologies, databases, and clean coding practices.
-- **Data & AI Architecture:** Working toward understanding data pipelines, system integration, scalable AI applications, and end-to-end intelligent system design.
-- **Continuous Learning:** Strengthening my technical foundation through academic learning, certifications, personal projects, and problem-solving.
-
-**Open To:** Data Science Internships · Data Analytics Internships · AI/ML Internships · Beginner-Friendly Software Development Opportunities · Research Collaborations · Hackathons
-
----
-
-## 02. Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,js&theme=dark" alt="Programming languages"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Exploring+Data+Science+%26+Artificial+Intelligence;Building+Intelligent+Software+Applications;Turning+Data+Into+Actionable+Insights;Developing+End-to-End+Projects;Learning+Software+Architecture" alt="Typing introduction" />
 </p>
 
-### Data Science & Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-</p>
-
-**Libraries:** NumPy · Pandas · Matplotlib
-
-### Machine Learning & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&theme=dark" alt="AI and machine learning technologies"/>
-</p>
-
-*Currently developing machine learning expertise. Specific frameworks should be highlighted as practical experience grows.*
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap&theme=dark" alt="Frontend technologies"/>
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,sqlite&theme=dark" alt="Backend and database technologies"/>
-</p>
-
-### Tools & Development Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux&theme=dark" alt="Developer tools"/>
+<p align="center">
+  <a href="https://github.com/bharad1101">
+    <img src="https://img.shields.io/badge/GitHub-bharad1101-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-102A43?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Data Science and AI" />
+  <img src="https://img.shields.io/badge/Building-Intelligent%20Applications-161B22?style=for-the-badge&logo=probot&logoColor=58A6FF" alt="Intelligent applications" />
 </p>
 
 ---
 
-## 03. Data Science & AI Expertise
+## 🚀 About Me
 
-| Domain | Current Stage | Learning & Application |
-|:---|:---:|:---|
-| Python Programming | Intermediate | Data manipulation, scripting, functions, and problem-solving |
-| Data Analysis | Foundational to Intermediate | NumPy, Pandas, data cleaning, and exploratory analysis |
-| Data Visualization | Foundational to Intermediate | Matplotlib and communicating data insights |
-| Statistics | Developing | Descriptive statistics, probability, distributions, and statistical reasoning |
-| Machine Learning | Developing | Learning model fundamentals, training workflows, and evaluation |
-| Feature Engineering | Learning | Data preparation, feature selection, and transformation |
-| Data Structures & Algorithms | Developing | Core data structures, algorithmic thinking, and complexity |
-| SQL & Databases | Developing | Relational data, queries, and persistence concepts |
-| Software Development | Early Stage | Building practical frontend and backend development skills |
-| Data & AI Architecture | Long-Term Goal | Data pipelines, system design, integration, scalability, and AI infrastructure |
-| Responsible AI | Exploring | Model transparency, fairness, and evaluation of potential limitations |
+I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learning**, passionate about data science, intelligent systems, and building practical software solutions that solve real-world problems.
 
----
+My primary career goal is to become a **Data Scientist and AI Architect**. I enjoy exploring data, discovering meaningful patterns, developing predictive models, and understanding how intelligent systems can be designed, developed, and deployed.
 
-## 04. Featured Projects
+Recently, I've also started building complete software applications, expanding my knowledge beyond data science into software engineering, backend development, frontend interfaces, and application architecture.
 
-### Project 01 — AutoScientist AI
-
-<details>
-<summary><b>Explore Project | Automated Data Science & Machine Learning</b></summary>
-
-**Overview**
-
-AutoScientist AI is a data science platform designed to bring dataset exploration, statistical analysis, machine learning workflows, model explainability, and reporting together in one application.
-
-**Technology Stack:** Java 21 · Spring Boot 3 · React 18 · Vite · Bootstrap 5 · Chart.js · MySQL/H2
-
-**Key Capabilities**
-
-- Multi-stage analytical workflow with 13-stage dual-mode navigation.
-- Statistical and machine learning functionality implemented in Java.
-- Interactive data analysis and visualization dashboards.
-- Automated machine learning workflow support.
-- Model explainability and fairness analysis.
-- What-if analysis and drift monitoring.
-- Dataset question-answering interface.
-- Evidence graph and PDF reporting.
-- Persistent storage and automated backend tests.
-
-**Reported Verification:** 25/25 backend tests passed and the full build succeeded.
-
-**What I'm Learning:** Data science workflow design, statistical computing, model evaluation, visualization, explainable AI, and full-stack integration.
-
-| Attribute | Details |
-|:---|:---|
-| Stack | Java, Spring Boot, React, MySQL/H2 |
-| Scale | 13-stage analytical workflow |
-| Performance | 25/25 backend tests reported passing |
-| Security | Requires deployment-specific security verification |
-| Impact | Integrates multiple data analysis and modeling workflows |
-| Repository | [Add your actual repository URL](https://github.com/) |
-
-</details>
-
-### Project 02 — IP-SAKTHI Sahayak
-
-<details>
-<summary><b>Explore Project | Multilingual AI & Knowledge Retrieval</b></summary>
-
-**Overview**
-
-IP-SAKTHI Sahayak is a project direction for a multilingual, source-cited assistant designed to help users navigate Ayurveda-related intellectual property and regulatory information.
-
-**Core Areas**
-
-- Natural language processing.
-- Multilingual information access.
-- Source-grounded question answering.
-- Retrieval-based knowledge discovery.
-- Evidence traceability and citation quality.
-- Responsible AI for information-sensitive applications.
-
-**What I'm Learning:** Knowledge retrieval, AI application design, NLP concepts, information evaluation, and evidence-grounded AI systems.
-
-| Attribute | Details |
-|:---|:---|
-| Stack | AI/ML, NLP, retrieval-based question answering, web technologies |
-| Scale | Multilingual knowledge access concept |
-| Performance | To be established through testing |
-| Security | Requires source validation and privacy safeguards |
-| Impact | Aims to improve access to complex knowledge and regulatory information |
-| Repository | [Add your actual repository URL](https://github.com/) |
-
-</details>
-
-### Project 03 — GramRoute
-
-<details>
-<summary><b>Explore Project | Data-Driven Civic Technology</b></summary>
-
-**Overview**
-
-GramRoute is a community-focused application concept designed to help users report local problems, explore issue feeds, and access location-aware information through a mobile-friendly interface.
-
-**Core Areas**
-
-- Responsive web development.
-- Community issue reporting.
-- Location-aware interfaces and maps.
-- Multilingual user experience.
-- Planned backend and database integration.
-
-**What I'm Learning:** Practical software development, application design, data management, and building technology around real-world needs.
-
-| Attribute | Details |
-|:---|:---|
-| Stack | Web technologies, maps, and planned backend integration |
-| Scale | Community issue reporting concept |
-| Performance | Requires representative usability and performance testing |
-| Security | Requires appropriate authentication and data protection |
-| Impact | Aims to improve the organization and visibility of local issues |
-| Repository | [Add your actual repository URL](https://github.com/) |
-
-</details>
+- 🔭 **Currently Building:** [AutoScientist-AI](https://github.com/bharad1101/AutoScientist-AI)
+- 📊 **Primary Career Goal:** Becoming a Data Scientist and AI Architect
+- 🤖 **Core Interests:** Artificial Intelligence, Machine Learning, Data Science, Predictive Analytics, and Explainable AI
+- 💻 **Software Development Journey:** Building end-to-end applications and learning software engineering through practical projects
+- 🧠 **Programming Languages:** C, Python, Java, SQL, and JavaScript
+- 🌐 **Web Technologies:** HTML, CSS, and JavaScript
+- 📈 **Data Science Tools:** NumPy, Pandas, Matplotlib, and Jupyter Notebook
+- 🛠️ **Application Development:** Exploring REST APIs, backend development, frontend development, databases, and full-stack architecture
+- 🌱 **Currently Growing:** My skills in statistical analysis, machine learning, software architecture, and scalable application development
+- 🎯 **Long-Term Goal:** Design and build reliable, scalable, and impactful AI-powered systems as an AI Architect
+- 🤝 **Open To:** Hackathons, internships, collaborative projects, and open-source contributions
 
 ---
 
-## 05. Experience & Learning Journey
+## 🧰 Tech Stack
 
-### Data Science, AI & Software Engineering
+### 💻 Programming Languages
 
-**Academic Learning & Independent Projects**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-I am developing my engineering foundation through coursework, practical projects, and continuous technical learning.
+### 📊 AI, Machine Learning & Data Science
 
-**Current Areas of Development**
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+</p>
 
-- Strengthening Python and programming fundamentals.
-- Applying NumPy, Pandas, and Matplotlib to data analysis.
-- Learning statistics and the mathematical foundations of machine learning.
-- Exploring predictive modeling and model evaluation.
-- Building practical projects that connect data analysis with software applications.
-- Learning backend development, database integration, and frontend fundamentals.
-- Developing an understanding of system design and data-oriented architecture.
+**Areas of Interest:**
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Preprocessing
+- Feature Engineering
+- Statistical Analysis
+- Predictive Modeling
+- Model Evaluation
+- Explainable AI (XAI)
+- Responsible and Fair Machine Learning
 
-**Skills:** Python · NumPy · Pandas · Matplotlib · C · Java · SQL · Data Structures · Machine Learning Fundamentals · Git
+### 🌐 Backend, Frontend & Databases
 
----
+<p>
+  <img src="https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs" />
+</p>
 
-## 06. Achievements
+### 🔧 Developer Tools & Technologies
 
-| Recognition | Details |
-|:---|:---|
-| HackerRank | Completed Problem Solving Intermediate certification |
-| Robotics Learning | Completed a robotics diploma through Alison |
-| AutoScientist AI | Reported 25/25 backend tests passing and successful full build |
-| Technical Hackathons | Explored AI-driven solutions for practical problems |
-| Project-Based Learning | Developing data science, AI, and software engineering projects |
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+</p>
 
----
+### 🏗️ Software Engineering & Architecture
 
-## 07. Certifications
-
-### AWS
-
-<a href="https://aws.amazon.com/certification/"><img src="https://img.shields.io/badge/AWS-Learning%20Path-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/></a>
-
-### Oracle
-
-<a href="https://education.oracle.com/"><img src="https://img.shields.io/badge/Oracle-Learning%20Path-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/></a>
-
-### NPTEL
-
-<a href="https://nptel.ac.in/"><img src="https://img.shields.io/badge/NPTEL-Courses-4B0082?style=flat-square" alt="NPTEL"/></a>
-
-### Cisco
-
-<a href="https://www.netacad.com/"><img src="https://img.shields.io/badge/Cisco-NetAcad%20Learning-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco"/></a>
-
-### Additional Credentials
-
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Intermediate-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-<a href="https://alison.com/"><img src="https://img.shields.io/badge/Alison-Robotics%20Diploma-6D28D9?style=flat-square" alt="Alison"/></a>
-
----
-
-## 08. Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-
-</div>
+- End-to-end application development
+- Backend API development
+- Frontend integration
+- Database design and persistence
+- Modular software design
+- Scalable system architecture
+- AI/ML application integration
+- Testing, debugging, and maintainability
 
 ---
 
-## 09. GitHub Analytics
+## 🌟 Featured Projects
 
-<div align="center">
+### 🧪 [AutoScientist-AI](https://github.com/bharad1101/AutoScientist-AI)
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9" alt="GitHub statistics"/>
-</a>
+**Autonomous Scientific Discovery & Evidence-Based Data Science Platform**
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
-</a>
+A data science platform designed to support automated machine learning, explainability, fairness analysis, what-if exploration, drift monitoring, and evidence-based reporting.
 
-<br/>
+**Key Features:**
+- Automated machine learning workflows
+- Data analysis and model evaluation
+- Explainable AI and feature importance
+- Fairness analysis and what-if experimentation
+- Data drift monitoring
+- Evidence-based reports and visualizations
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak"/>
+**Technologies:** Java, Spring Boot, React, Vite, MySQL, H2, Chart.js
 
-</div>
+### 🛡️ [Digital-Guardian](https://github.com/bharad1101/Digital-Guardian)
 
----
+**AI-Powered Cybersecurity & Fraud Detection**
 
-## 10. GitHub Trophies
+A hybrid cybersecurity application focused on detecting spam, phishing, scams, and potential digital threats across multiple communication channels.
 
-<div align="center">
+**Focus Areas:**
+- Threat identification
+- Spam and phishing detection
+- Fraud prevention
+- AI-assisted security analysis
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies"/>
+**Technology:** Python
 
-</div>
+### 📡 [AIML-8-Failure-Sensor-Predictor](https://github.com/bharad1101/AIML-8-Failure-Sensor-Predictor)
 
----
+**Predictive Maintenance Using NASA C-MAPSS Data**
 
-## 11. Contribution Activity
+A machine learning project focused on analyzing sensor telemetry to identify potential equipment failures and support early maintenance decisions.
 
-<div align="center">
+**Focus Areas:**
+- Sensor data analysis
+- Predictive maintenance
+- Feature engineering
+- Machine learning model development
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution graph"/>
+**Technology:** Python, Jupyter Notebook
 
-</div>
+### ⚡ [AIML-Grid-Energy-Forecaster](https://github.com/bharad1101/AIML-Grid-Energy-Forecaster)
 
----
+**Electricity Load Forecasting**
 
-## 12. Contribution Snake
+A forecasting system that uses temporal feature engineering and Random Forest regression to estimate electricity demand one hour ahead.
 
-<div align="center">
+**Focus Areas:**
+- Time-based feature engineering
+- Electricity demand forecasting
+- Regression modeling
+- Predictive analytics
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
-
-</div>
-
----
-
-## 13. Current Focus
-
-```yaml
-career_goals:
-  primary:
-    - "Data Scientist"
-  long_term:
-    - "Data & AI Architect"
-  supporting_skill:
-    - "Software Development"
-
-learning:
-  - "Python for data science"
-  - "Statistics and probability"
-  - "Exploratory data analysis"
-  - "Machine learning fundamentals"
-  - "SQL and database concepts"
-  - "Data visualization and communication"
-
-building:
-  - "AutoScientist AI"
-  - "IP-SAKTHI Sahayak"
-  - "GramRoute"
-
-exploring:
-  - "Predictive analytics"
-  - "Explainable AI"
-  - "Data engineering fundamentals"
-  - "Scalable AI system architecture"
-  - "Full-stack software development"
-
-open_to:
-  - "Data Science internships"
-  - "Data Analytics internships"
-  - "AI/ML internships"
-  - "Beginner-friendly software development roles"
-  - "Research and hackathon collaborations"
-```
+**Technology:** Python, Jupyter Notebook, Pandas, NumPy, Scikit-learn
 
 ---
 
-## 14. Connect With Me
+## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharad1101&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub statistics" />
+</p>
 
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharad1101&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" alt="Most used programming languages" />
+</p>
 
-<br/><br/>
-
-**Always learning. Always experimenting. Always building.**
-
-Interested in data science, machine learning, meaningful AI applications, and opportunities to grow as an engineer.
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bharad1101&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
-## 15. Footer
+## 🌱 What I'm Working Toward
 
-<div align="center">
+- 📊 Strengthening my data science foundations in statistics, data analysis, feature engineering, and predictive modeling.
+- 🤖 Developing practical machine learning solutions that transform raw data into meaningful insights.
+- 🧠 Improving my understanding of model evaluation, explainable AI, and responsible machine learning.
+- 💻 Bridging data science and software engineering by turning analytical models into practical applications.
+- 🏗️ Learning to design maintainable, scalable, and reliable software systems.
+- 🌐 Improving my knowledge of APIs, databases, backend development, and frontend integration.
+- 🚀 Building real-world projects to strengthen my technical portfolio.
+- 🤝 Participating in hackathons and exploring internship and open-source opportunities.
+- 🎯 Working toward my long-term goal of becoming a Data Scientist and AI Architect.
 
-*"Learn deeply. Think critically. Build intelligently."*
+---
 
-<br/>
+## 🏆 My Development Philosophy
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,35:6D28D9,70:312E81,100:0D1117&height=120&section=footer" width="100%" alt="Footer banner"/>
+- **Data First:** Understand the data before building the model.
+- **Build to Learn:** Turn concepts into practical projects.
+- **Think Beyond Models:** Connect AI and data science with usable software.
+- **Design for Reliability:** Value testing, maintainability, and responsible development.
+- **Keep Improving:** Learn continuously and adapt to emerging technologies.
 
-</div>
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning from other developers, exchanging ideas, and collaborating on meaningful projects in data science, artificial intelligence, and software engineering.
+
+<p align="center">
+  <a href="https://github.com/bharad1101">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <b>💡 Learn continuously. Analyze deeply. Build thoughtfully. Create meaningful technology.</b>
+</p>
